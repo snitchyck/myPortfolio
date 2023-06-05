@@ -130,4 +130,16 @@
   .todo.completed button {
     color: silver;
   }
+  .add-todo{
+    width: 2rem;
+    height: 2rem;
+    margin: 0;
+    background: transparent;
+    border: 1px solid black;
+    border-radius: 100%;
+    flex-shrink: 0;
+    margin-left: 1rem;
+    cursor: pointer;
+  }
+
 </style>
