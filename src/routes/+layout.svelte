@@ -3,41 +3,43 @@
         <a href="/" class="nav-logo" title="Back to Homepage">Артём Дуркин</a>
         <div class="nav-links">
             {#each nav as link}
+            {#if link.isShow}
             <a href={link.href} class="link">{link.title}</a>
+            {/if}            
             {/each}
         </div>
     </div>
 </nav>
 <div class="container">
     <!-- Pages will be injected below -->
-    <slot />
+    <slot></slot>
 </div>
 <script>
     const nav = [
     {
       title: 'Обо мне',
       href: '/about',
-      isShow: true,
+      isShow: false
     },
     {
       title: 'Блог',
       href: '/blog',
-      isShow: true,
+      isShow: true
     },
     {
       title: 'Портфолио',
       href: '/project',
-      isShow: true,
+      isShow: true
     },
     {
       title: 'Контакты',
       href: '/contact',
-      isShow: true,
+      isShow: true
     },
     {
       title: 'temp',
       href: '/temp',
-      isShow: true,
+      isShow: false
     },
   ]
 </script>
