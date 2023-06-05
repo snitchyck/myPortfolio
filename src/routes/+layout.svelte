@@ -19,7 +19,7 @@
     {
       title: 'Обо мне',
       href: '/about',
-      isShow: false
+      isShow: true
     },
     {
       title: 'Блог',
