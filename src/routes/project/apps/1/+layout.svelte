@@ -5,7 +5,7 @@
   
 <style>
   a{
-      color: rgb(245, 201, 144);
+      color: #f5c990;
       font-weight: bold;
   }
   .container {

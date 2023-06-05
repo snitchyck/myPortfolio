@@ -1,4 +1,4 @@
-<h1>My Second blog post</h1>
+<h1>Мой первый пост!</h1>
 <p>
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus adipisci
     veniam esse magni modi reiciendis corporis voluptatibus porro? Vero autem

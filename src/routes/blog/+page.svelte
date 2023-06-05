@@ -32,12 +32,15 @@
 	}
 
 	.post {
-		border: 1px solid #ddd;
+		border: 1px solid #4fa9e6;
 		padding: 10px;
-		box-shadow: 0 0 10px #eee;
+		box-shadow: 0 0 10px #4bbef3;
 	}
 
 	.link {
-		color: rgb(10, 10, 139);
+		color: #0a0a8b;
+	}
+	h2{
+		color:blueviolet;
 	}
 </style>

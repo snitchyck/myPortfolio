@@ -1,4 +1,4 @@
-<h1>My first blog post</h1>
+<h1>Про блог:</h1>
 <p>
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus adipisci
     veniam esse magni modi reiciendis corporis voluptatibus porro? Vero autem
