@@ -42,9 +42,7 @@
     }
     .link {
      color: rgb(10, 10, 139);
-    }
-    .link{
-        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        font-weight: 600;
+     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-weight: 600;
     }
 </style>

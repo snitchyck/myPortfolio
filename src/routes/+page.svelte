@@ -21,7 +21,7 @@
                     class="scroll-button animate-scroll"
                     tabindex="0"
                 >
-                    <a href="/about">Click Here</a>
+                    <a href="/about">Узнать больше</a>
                     <div class="arrow">→</div>
                 </div>
             </div>

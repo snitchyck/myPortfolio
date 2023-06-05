@@ -32,15 +32,14 @@
 	}
 
 	.post {
-		border: 1px solid #4fa9e6;
+		border: 1px solid white;
 		padding: 10px;
-		box-shadow: 0 0 10px #4bbef3;
+		box-shadow: 0 0 12px gray;
 	}
 
 	.link {
-		color: #0a0a8b;
-	}
-	h2{
-		color:blueviolet;
+		color: rgb(10, 10, 139);
+    	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    	font-weight: 600;	
 	}
 </style>
