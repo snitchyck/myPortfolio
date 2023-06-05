@@ -141,5 +141,4 @@
     margin-left: 1rem;
     cursor: pointer;
   }
-
 </style>

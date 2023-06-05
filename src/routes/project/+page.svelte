@@ -11,7 +11,7 @@
     <p>{page.body}</p>
     <p class='readmore'>
      <a class='link' href={`/project/apps/${page.id}`}>
-      Читать далее
+      Попробовать!
      </a>
     </p>
    </div>
@@ -35,13 +35,16 @@
      grid-template-columns: 1fr 1fr;
      grid-gap: 20px;
     }
-  .app {
+    .app {
      border: 1px solid #ddd;
      padding: 10px;
      box-shadow: 0 0 10px #eee;
     }
-  
     .link {
      color: rgb(10, 10, 139);
+    }
+    .link{
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 600;
     }
 </style>
