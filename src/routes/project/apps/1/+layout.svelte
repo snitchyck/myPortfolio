@@ -4,6 +4,10 @@
 </div>  
   
 <style>
+  a{
+      color: rgb(245, 201, 144);
+      font-weight: bold;
+  }
   .container {
     margin: 50px auto;
     max-width: 800px;
